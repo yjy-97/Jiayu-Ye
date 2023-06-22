@@ -18,7 +18,7 @@ Yu Y, Li W, Zhao Y, et al. Depression and Severity Detection Based on Body Kinem
 Spa-L Transformer: Sparse-self attention model of Long short-term memory positional encoding based on long text classification. （International Conference on Computer Supported Cooperative Work in Design）（通讯作者，CCF C类推荐会议，已接收）<br>
 
 ## 第二或第三作者
-Fu G, Yu Y, Ye J, et al. A method for diagnosing depression: Facial expression mimicry is evaluated by facial expression recognition[J]. Journal of affective disorders, 2023, 323: 809-818. （第三作者，中科院二区TOP，IF=6.553，已发表，该文章获得爱思唯尔竞选论文推荐）<br>
+Fu G, Yu Y, Ye J, et al. A method for diagnosing depression: Facial expression mimicry is evaluated by facial expression recognition[J]. Journal of affective disorders, 2023, 323: 809-818. （第三作者，中科院二区TOP，IF=6.553，已发表，该文章获得爱思唯尔精选论文推荐）<br>
 
 # 专利
 基于K选择策略稀疏自注意力的文本分类方法及系统（ZL202110618077）（导师第一本人第二，已授权）<br>
