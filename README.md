@@ -10,7 +10,7 @@ PHD：广东工业大学 计算机科学与技术学院 计算机科学与技术
 # 学术论文
 ## 第一作者
 Ye J, Yu Y, Fu G, et al. Analysis and Recognition of Voluntary Facial Expression Mimicry Based on Depressed Patients[J]. IEEE Journal of Biomedical and Health Informatics, 2023.（第一作者，CCF推荐期刊，中科院一区TOP，IF=7.700，已发表）<br>
-Ye J, Yu Y, Wang Q, et al. Multi-modal depression detection based on emotional audio and evaluation text[J]. Journal of Affective Disorders, 2021, 295: 904-913. （第一作者，中科院二区TOP，IF=6.553，已发表）<br>
+Ye J, Yu Y, Wang Q, et al. Multi-modal depression detection based on emotional audio and evaluation text[J]. Journal of Affective Disorders, 2021, 295: 904-913. （第一作者，中科院二区TOP，IF=6.600，已发表）<br>
 Ye J, Fu G, Liu Y, et al. Dep-ViT: Uncertainty Suppression Model Based on Facial Expression Recognition in Depression Patients[C]//Artificial Neural Networks and Machine Learning–ICANN 2022: 31st International Conference on Artificial Neural Networks, Bristol, UK, September 6–9, 2022, Proceedings, Part III. Cham: Springer Nature Switzerland, 2022: 113-124.（第一作者，CCF C类推荐会议，已发表）<br>
 
 ## 通讯作者
