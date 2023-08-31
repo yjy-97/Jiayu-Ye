@@ -20,5 +20,9 @@ S. Zhang, J. Ye and Q. Wang, "Spa-L Transformer: Sparse-self attention model of 
 ## 第二或第三作者
 Fu G, Yu Y, Ye J, et al. A method for diagnosing depression: Facial expression mimicry is evaluated by facial expression recognition[J]. Journal of affective disorders, 2023, 323: 809-818. （第三作者，中科院二区TOP，IF=6.600，已发表，该文章获得爱思唯尔精选论文推荐）<br>
 
+## 返修或外审论文
+Dep-FER: Facial Expression Recognition in Depressed Patients Based on Voluntary Facial Expression Mimicry（第一作者，中科院二区TOP，返修，IEEE Transactions on Affective Computing）
+MssNet: An Efficient Spatial Attention Model for Early Identification of Alzheimer’s Disease（第一作者，中科院二区，外审，IEEE Transactions on Emerging Topics in Computational Intelligence）
+
 # 专利
 基于K选择策略稀疏自注意力的文本分类方法及系统（ZL202110618077）（导师第一本人第二，已授权）<br>
