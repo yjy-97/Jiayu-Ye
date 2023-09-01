@@ -17,12 +17,12 @@ Ye J, Fu G, Liu Y, et al. Dep-ViT: Uncertainty Suppression Model Based on Facial
 Yu Y, Li W, Zhao Y, et al. Depression and Severity Detection Based on Body Kinematic Features: Using Kinect Recorded Skeleton Data of Simple Action[J]. Frontiers in Neurology, 2022: 1192. （通讯作者，中科院三区，已发表）<br>
 S. Zhang, J. Ye and Q. Wang, "Spa-L Transformer: Sparse-self attention model of Long short-term memory positional encoding based on long text classification," 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Rio de Janeiro, Brazil, 2023, pp. 618-623, doi: 10.1109/CSCWD57460.2023.10152784.（通讯作者，CCF C类推荐会议，已发表）<br>
 
-## 第二或第三作者
-Fu G, Yu Y, Ye J, et al. A method for diagnosing depression: Facial expression mimicry is evaluated by facial expression recognition[J]. Journal of affective disorders, 2023, 323: 809-818. （第三作者，中科院二区TOP，IF=6.600，已发表，该文章获得爱思唯尔精选论文推荐）<br>
-
 ## 返修或外审论文
 Dep-FER: Facial Expression Recognition in Depressed Patients Based on Voluntary Facial Expression Mimicry（第一作者，中科院二区TOP，返修，IEEE Transactions on Affective Computing）<br>
 MssNet: An Efficient Spatial Attention Model for Early Identification of Alzheimer’s Disease（第一作者，中科院二区，外审，IEEE Transactions on Emerging Topics in Computational Intelligence）<br>
+
+## 第二或第三作者
+Fu G, Yu Y, Ye J, et al. A method for diagnosing depression: Facial expression mimicry is evaluated by facial expression recognition[J]. Journal of affective disorders, 2023, 323: 809-818. （第三作者，中科院二区TOP，IF=6.600，已发表，该文章获得爱思唯尔精选论文推荐）<br>
 
 # 专利
 基于K选择策略稀疏自注意力的文本分类方法及系统（ZL202110618077）（导师第一本人第二，已授权）<br>
