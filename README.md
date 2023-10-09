@@ -7,6 +7,9 @@ PHD：广东工业大学 计算机科学与技术学院 计算机科学与技术
 # 科研项目
 基于音视频的抑郁症多模态融合识别方法研究（山东省自然基金，No: ZR2021MF079，在研，参与，第5位）<br>
 
+# 学术兼职
+ICASSP,IEEE TETCI审稿人
+
 # 学术论文
 ## 第一作者
 Ye J, Yu Y, Fu G, et al. Analysis and Recognition of Voluntary Facial Expression Mimicry Based on Depressed Patients[J]. IEEE Journal of Biomedical and Health Informatics, 2023.（第一作者，CCF推荐期刊，中科院一区TOP，IF=7.700，已发表）<br>
